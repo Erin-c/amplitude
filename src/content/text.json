@@ -1,0 +1,38 @@
+{
+	"title":{
+		"english":"Amplitude",
+		"spanish":"Amplitud"
+	},
+	"buttons":{
+		"english":["Waveform", "Sound", "Light"],
+		"spanish":["Onda", "Sonido", "Luz"]
+	},
+	"labels":{
+		"english":["Wavelength", "Frequency", "Energy"],
+		"spanish":["Longitud de onda", "Frecuencia", "Energía"]
+	},
+	"sliderLabels":{
+		"english":["Louder", "Softer", "Brighter", "Dimmer"],
+		"spanish":["Más ruidoso", "Más suave", "Más brillante", "Más oscuro"]
+	},
+	"units":{
+		"english":"Trillion Hz",
+		"spanish":"Trillones de Hz"
+	},
+	"helperTextWaveform":{
+		"english":["Choose to view a waveform, sound waves, or light waves", "How does adjusting the amplitude change the energy of the wave?", "Use the slider to adjust the amplitude of the wave. See how the resulting waveform changes."],
+		"spanish":["Elige para ver una onda, ondas de sonido u ondas de luz", "¿De qué manera cambia la energía de la onda al ajustar la amplitud?", "Desliza el control para ajustar la amplitud de la onda. Observa los cambios que se producen en la onda."]
+	},
+	"helperTextSound":{
+		"english":"Use the slider to adjust the amplitude of the wave. Make sure that your computer’s audio is turned on to hear sounds of different amplitude.",
+		"spanish":"Desliza el control para ajustar la amplitud de la onda. Asegúrate de que el audio de tu computadora esté activado para que puedas oír los sonidos a diferentes amplitudes."
+	},
+	"helperTextLight":{
+		"english":"Use the slider to adjust the amplitude of the wave. What happens to the light as the amplitude changes?",
+		"spanish":"Desliza el control para ajustar la amplitud de la onda. ¿Qué le ocurre a la luz a medida que cambia la amplitud?"
+	},
+	"disclaimer":{
+		"english":"wavelengths are not to scale",
+		"spanish":"Las longitudes de onda no están a escala."
+	}
+}
